@@ -3,3 +3,5 @@ key
 key.pub
 
 .DS_Store
+
+.fake
